@@ -1,6 +1,5 @@
-﻿# 3.12.16 (13-AUG-2026)
- - updated - (retail) toc to 12.1.0
- - fixed - issue with SecureHook and PlayerInteractionFrameManager
+﻿# 3.12.16 Alpha 1 (xx-AUG-2026)
+ - fixed - (classic) issue with SecureHook and PlayerInteractionFrameManager
 
 # known issues post 11.2
  - without reagent or profession bags in the bank a restack wont transfer new stacks of reageants or profession items - potential workaround will be to look for tabs that have been assigned 'reagents' and treat those the same way the reagent bank was previously
