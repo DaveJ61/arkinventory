@@ -1,5 +1,8 @@
-﻿# 3.12.16 Alpha 1 (xx-AUG-2026)
- - fixed - (classic) issue with SecureHook and PlayerInteractionFrameManager
+﻿# 3.12.16 Alpha 2 (17-AUG-2026)
+ - workaround - guild bank not opening due to PlayerInteractionFrameManager being disabled/removed.  for the moment both the blizzard and arkinventory window will open/close together
+
+# 3.12.16 Alpha 1 (14-AUG-2026)
+ - fixed - (classic) issues due to PlayerInteractionFrameManager being disabled/removed
 
 # known issues post 11.2
  - without reagent or profession bags in the bank a restack wont transfer new stacks of reageants or profession items - potential workaround will be to look for tabs that have been assigned 'reagents' and treat those the same way the reagent bank was previously

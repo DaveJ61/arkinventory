@@ -1,6 +1,6 @@
 ﻿# 3.12.16 (13-AUG-2026)
  - updated - (retail) toc to 12.1.0
- - fixed - issue with SecureHook and PlayerInteractionFrameManager
+ - fixed - issues due to PlayerInteractionFrameManager being disabled/removed
 
 # 3.12.15 (23-JUL-2026)
  - updated - (bcc) toc to 2.5.6
