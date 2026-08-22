@@ -1,4 +1,8 @@
-﻿# 3.12.16 Alpha 2 (17-AUG-2026)
+﻿# 3.12.16 Alpha 3 (22-AUG-2026)
+ - workaround - (retail) issue with guild bank using IsVisible instead of IsShown
+ - updated - category for some items
+
+# 3.12.16 Alpha 2 (17-AUG-2026)
  - workaround - guild bank not opening due to PlayerInteractionFrameManager being disabled/removed.  for the moment both the blizzard and arkinventory window will open/close together
 
 # 3.12.16 Alpha 1 (14-AUG-2026)
